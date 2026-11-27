@@ -2,5 +2,9 @@
   {
     "package": "mascot",
     "url": "https://github.com/insightsurge/mascot"
+  },
+  {
+    "package": "hovercraft",
+    "url": "https://github.com/insightsurge/hovercraft"
   }
 ]
